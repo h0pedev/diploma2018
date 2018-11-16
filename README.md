@@ -39,11 +39,11 @@
 
 ## Заинтересованные лица
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-|:------------- |:---------------:| -------------:|
-| col 3 is      | some wordy text |     **$1600** |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+| Лицо  | Цель  | Проблема | Текущее решение |
+|:------------- |:---------------:| -------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |     **$1600** |
+| col 2 is      | centered        |         $12   |     **$1600** |
+| zebra stripes | are neat        |        ~~$1~~ |     **$1600** |
 
 ## Конкуренты
 
