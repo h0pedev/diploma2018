@@ -71,6 +71,8 @@
 
 1. Интуитивно понятный интерфейс
 2. Web-решение
+3. Backend - C# + Asp.NET MVC
+4. Frontend - HTML + Razor + CSS + JS
 
 ### Правила
 
